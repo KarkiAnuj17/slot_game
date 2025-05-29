@@ -66,7 +66,11 @@ The app will be running at [http://localhost:3000](http://localhost:3000).
 
 ## 🖼️ Screenshot
 
-![Lucky Slots Screenshot](screenshot.png)
+![Screenshot 2025-05-29 104257](https://github.com/user-attachments/assets/249a9c76-eb5f-4597-9f4e-4285b686c431)
+![Screenshot 2025-05-29 104248](https://github.com/user-attachments/assets/8663a707-7aec-4e73-a12f-72208c26b140)
+![Screenshot 2025-05-29 104227](https://github.com/user-attachments/assets/cb6c051b-143c-4a51-9875-a7571aec9ca0)
+![Screenshot 2025-05-29 104204](https://github.com/user-attachments/assets/4cf611ac-255b-440d-b2a6-b5270fc134a5)
+![Screenshot 2025-05-29 104309](https://github.com/user-attachments/assets/b796bcbf-c436-4e40-9f02-184b78fe76e7)
 
 ---
 
